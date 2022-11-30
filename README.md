@@ -6,10 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_rghv/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/rghv96)
  
-I am Software Engineer currently working at Flipkart, India. I love programming and building stuff.
- 
-I completed my undergrad in Computer Science from IIT Mandi in 2018. I look forward to opportunities where I can use my theoretical knowledge and put it into more practical use. Feel free to
-reach out!
+I am a Computer Science graduate student at Virginia Tech in the United States and have previously worked as a Software Engineer for four years in India and Singapore. I completed my undergrad in Computer Science from IIT Mandi in 2018. I am enthusiastic about creating intriguing software that uses technology to meet human needs. I look forward to opportunities where I can use my theoretical knowledge and put it into more practical use. Feel free to reach out!
 
 <!--
 **rghv96/rghv96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
